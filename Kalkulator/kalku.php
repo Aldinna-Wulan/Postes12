@@ -11,7 +11,7 @@
 </head>
 <body>
 
-<a href="utama.php">Kembali Ke Menu Utama</a></p>
+<a href="index.php">Kembali Ke Menu Utama</a></p>
     
 	<div class="container">
 		<form name="form">
